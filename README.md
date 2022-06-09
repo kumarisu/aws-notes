@@ -16,6 +16,7 @@
 
 
 ## SA
+* [lab](https://www.wellarchitectedlabs.com/?ref=wellarchitected-wp)
 * AWS Well-Architected Tool
 * AWS Well-Architected Framework
   + Component = code, configuration, resources
